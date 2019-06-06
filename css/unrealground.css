@@ -1,0 +1,22 @@
+body, html {height: 100%}
+.walls {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.bgimg{
+    background-image: url('../images/bground/KrivecAles3.jpg');
+}
+
+.index1{
+    background-image: url('../images/bground/SebastianVoortman.jpg');
+}
+
+.index2{
+    background-image: url('../images/bground/AnuarGresati.jpg');
+}
+
+.index3{
+    background-image: url('../images/bground/LuisMartinez.jpg');
+}
