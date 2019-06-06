@@ -1,0 +1,23 @@
+{
+  "name": "unreal",
+  "version": "1.0.0",
+  "description": "The world within your palms!",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d unreal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalraj/unreal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajwalraj/unreal/issues"
+  },
+  "homepage": "https://prajwalraj.github.io/unreal",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
