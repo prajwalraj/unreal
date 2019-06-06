@@ -4,7 +4,7 @@
   "description": "The world within your palms!",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d unreal"
+    "deploy": "gh-pages -d unrealjourney"
   },
   "repository": {
     "type": "git",
